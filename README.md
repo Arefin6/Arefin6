@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Yo Tech As Back End Software Engineer<br>👯 I’m looking to collaborate on Open Source JavaScript projects<br>🌱 I’m currently learning Typecript, Mongodb, Sql, Docker etc
+ Hi 👋 I am Arefin.<br>You can Connect with me arefinhossain3@gmail.com <br>🔭 I’m currently working on Yo Tech As Back End Software Engineer<br>👯 I’m looking to collaborate on Open Source JavaScript projects<br>🌱 I’m currently learning Typecript, Mongodb, Sql, Docker etc
 
 
 ## 🌐 Socials:
@@ -28,4 +28,3 @@
 [![](https://visitcount.itsvg.in/api?id=arefin6&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
