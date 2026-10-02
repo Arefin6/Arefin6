@@ -1,57 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Arefin 👋
+### Senior Full-Stack Engineer | AI Systems & Web Architecture
 
-###
+I build scalable, high-performance web systems and outcome-oriented AI workflows across FinTech, E-Commerce, and modern web platforms.
 
-<h3 align="left">My name is Arefin and I'm Software Engineer from Bangladesh</h3>
+---
 
-###
+### 🚀 Core Focus & Tech Stack
+- **Languages:** TypeScript, JavaScript (ES6+), Python
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5/CSS3
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Databases & ORM:** PostgreSQL, MongoDB, Prisma, Drizzle ORM
+- **Cloud & DevOps:** AWS (S3, EC2, Lambda), Docker, CI/CD
+- **AI Integrations:** OpenAI API, Vector Databases, LangChain, AI Agent Architecture
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 📈 GitHub Stats
+![Arefin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arefin6&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin6&layout=compact&theme=dark)
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning  System designe,Aws,SQL<br>🎯 Goals: Become Top 10% developer<br>🎲 Fun fact: I like to work with fun loving team</p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
+### 📬 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/arefinchowdhury/
+- **Email:** arefinhossain3@gmail.com
